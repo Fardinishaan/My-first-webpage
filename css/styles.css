@@ -12,6 +12,10 @@
      border-color: grey;
 
   }
+th {
+    text-align: left;
+    text-decoration: underline;
+  }
 
   h1 {
     color: #191970;
